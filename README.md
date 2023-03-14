@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-esto es lo primero
+Segunda onda del proyecto es una prueba del repo
